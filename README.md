@@ -1,2 +1,2 @@
-# TuneUp
+# tuneup
 Guitar tuner Android app
